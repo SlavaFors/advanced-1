@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9kirx72e5v8e8u7l?svg=true)](https://ci.appveyor.com/project/SlavaFors/advanced-1)
